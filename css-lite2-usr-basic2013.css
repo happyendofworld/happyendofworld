@@ -1,0 +1,316 @@
+@charset "UTF-8";
+
+/* Setting
+----------------------------------------------- */
+body {
+	color: #000000;
+	background-color: #f0f0f0;
+}
+
+/* Link Setting */
+a {
+	color: #000000;
+}
+
+a:not([href]) {
+	color: #000000;
+}
+
+#menu-bar ul li.current a:after {
+  border-bottom-color: #000000;
+}
+#menu-bar ul li.current a,
+.box a,
+a.box {
+	color: #000000;
+}
+
+.box a:not([href]),
+a.box:not([href]) {
+	color: #000000;
+}
+
+
+/* header - Blog Title */
+h1.blog-title {
+	font-size: 24px;
+	line-height: 1;
+	color: #000000;
+	height: 54px;
+	vertical-align: middle;
+	background-color: #f0f0f0;
+}
+
+h1.blog-title a {
+	color: #000000;
+}
+
+
+.menu-bar-outer {
+  background: rgba(255,255,255,1);
+}
+
+/* Box Setting */
+.box {
+	color: #444;
+/*
+	-webkit-box-shadow: 0px 1px 0 rgba(0,0,0,0.1);
+	-moz-box-shadow: 0px 1px 0 rgba(0,0,0,0.1);
+	-o-box-shadow: 0px 1px 0 rgba(0,0,0,0.1);
+	-ms-box-shadow: 0px 1px 0 rgba(0,0,0,0.1);
+	box-shadow: 0px 1px 0 rgba(0,0,0,0.1);
+*/
+	background-color: rgba(255,255,255,1);
+	border-color: transparent;
+	border-width: 1px;
+}
+
+.box-padding {}
+
+.section-box {
+	margin-bottom: 10px;
+}
+
+.box-margin {
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.box-border {
+	border-color: #e6e6e6;
+	border-style: none none solid;
+}
+
+.title-color {
+	color: #777;
+}
+
+#menu-bar ul li a,
+.sub-color {
+	color: #999;
+}
+
+.outside-border {
+	border-color: #b2b2b2;
+}
+
+
+/* Article List Reset  */
+ul.article-list-outer.box-margin {
+	margin: 0;
+}
+
+ul.article-list-outer.box-padding {
+	padding: 0;
+}
+
+ul.article-list-outer.box-border,
+ul.article-list-gallery li.article-list-outer-2.box-border {
+	border-style: none;
+}
+
+ul.article-list-outer.box {
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	-o-border-radius: 0;
+	-ms-border-radius: 0;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	-o-box-shadow: none;
+	-ms-box-shadow: none;
+	box-shadow: none;
+	background-color: transparent;
+}
+
+
+/* plugin - Article List (Basic Type) */
+ul.article-list-basic li.article-list {
+	/*border-style: solid;*/
+}
+
+span.article-calendar-month {
+	background: #999;
+}
+
+/* plugin - Article List (Basic2013 Type) */
+ul.article-list-basic2013 li.article-list .article-list-inner {
+	border-bottom-style: solid;
+}
+
+/* plugin - Article List (Gallery Type) */
+ul.article-list-gallery li.article-list-outer-2 div.article-list {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	/*border-style: solid;*/
+}
+
+ul.article-list-gallery li.article-list-outer-2:nth-child(2n+3) div.article-list {
+	margin-left: 5px;
+}
+
+ul.article-list-gallery li.article-list-outer-2:nth-child(even) div.article-list {
+	margin-right: 5px;
+}
+
+/* article - pre & blockquote */
+div.article-body-outer div.article-body pre,
+div.article-body-outer div.article-body blockquote {
+	background-color: rgba(0,0,0,0.1);
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-o-border-radius: 4px;
+	-ms-border-radius: 4px;
+	border-radius: 4px;
+}
+
+
+
+/* Other
+----------------------------------------------- */
+/* plugin - common box */
+.plugin-title {
+	font-weight: normal;
+}
+
+/* plugin - article list */
+.article-title {
+	font-weight: normal;
+}
+
+/* plugin - comment list */
+.plugin-comment_list .plugin-title {
+	margin-bottom: 15px;
+}
+.comment-count-label {
+	text-indent: -9999px;
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	background: url(http://parts.blog.livedoor.jp/img/lite2/icon_comment.png) no-repeat 0 0;
+	-webkit-background-size: 18px 18px;
+	-moz-background-size: 18px 18px;
+	-o-background-size: 18px 18px;
+	-ms-background-size: 18px 18px;
+	background-size: 18px 18px;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+.comment-count-num {
+	font-size: 14px;
+	line-height: 18px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.comment-count-num::before,
+.comment-count-num::after {
+	content: "";
+}
+
+
+/* article */
+.article-header .article-title {
+	font-size: 20px;
+	line-height: 24px;
+}
+.article-header.article-header-style-none .article-post {
+	padding-top: 7px;
+}
+.article-header .article-post .article-trackback-count {
+	display: none;
+}
+.article-header .article-post .article-author,
+.article-header .article-post .article-datetime {
+	float: left;
+	display: block;
+	width: 50%;
+	margin: 0;
+	line-height: 18px;
+}
+.article-header .article-post .article-datetime {
+	clear: both;
+}
+.article-header .article-post .article-comment-count {
+	float: right;
+	display: block;
+	width: 50%;
+	text-align: right;
+	margin: 0;
+	line-height: 18px;
+}
+.article-header .article-post .article-comment-count-label {
+	text-indent: -9999px;
+	background: url(http://parts.blog.livedoor.jp/img/lite2/icon_comment.png) no-repeat 0 0;
+	-webkit-background-size: 18px 18px;
+	-moz-background-size: 18px 18px;
+	-o-background-size: 18px 18px;
+	-ms-background-size: 18px 18px;
+	background-size: 18px 18px;
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	text-align: left;
+	margin-right: 5px;
+}
+.article-header .article-post .article-comment-count-num::before,
+.article-header .article-post .article-comment-count-num::after {
+	content: "";
+}
+
+div.article-body-outer div.article-body {
+	margin-bottom: 30px;
+}
+div.article-body-outer div.article-body a {
+	text-decoration: underline;
+}
+div.article-body-outer dl.article-category dt,
+div.article-body-outer dl.article-tags dt {
+	background-image: none;
+	padding-left: 0;
+	width: 62px;
+	text-align: right;
+	white-space: nowrap;
+	font-size: 12px;
+	line-height: 16px;
+}
+
+div.article-body-outer dl.article-category dd ul,
+div.article-body-outer dl.article-tags dd ul {
+	margin-top: -1px;
+}
+div.article-body-outer dl.article-category dd ul li {
+	margin-right: 2px;
+	font-size: 12px;
+	line-height: 16px;
+}
+div.article-body-outer dl.article-category dd ul li::after {
+	content: "｜";
+	letter-spacing: -1px;
+}
+div.article-body-outer dl.article-category dd ul li:last-child::after {
+	content: "";
+}
+div.article-body-outer dl.article-category dd ul li .article-category-greater {
+	margin: 0 3px;
+}
+div.article-body-outer dl.article-tags dd ul li {
+	font-size: 12px;
+	line-height: 16px;
+}
+
+
+/* button */
+.button-link a,
+.prev-link a,
+.back-link a {
+	background-image: none;
+	padding: 0 !important;/* clear box-padding */
+	line-height: 40px;
+	height: 40px;
+}
+
+

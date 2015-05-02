@@ -8,31 +8,31 @@
  xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" 
  xmlns:admin="http://webns.net/mvcb/" 
  xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel rdf:about="http://localhost:3000/">
+  <channel rdf:about="http://arakawax.webtext.pw/">
     <title>あらかわ画像速報</title>
-    <link>http://localhost:3000/</link>
+    <link>http://arakawax.webtext.pw/</link>
     <description>2chウォッチ生活をしていて、あらかわいいと思ったことをまとめていきます。
 芸能・スポーツなどをまとめていきたいです
 </description>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="http://localhost:3000/archives/1022457036.html"/>
-        <rdf:li rdf:resource="http://localhost:3000/archives/1022455973.html"/>
-        <rdf:li rdf:resource="http://localhost:3000/archives/1020838558.html"/>
-        <rdf:li rdf:resource="http://localhost:3000/archives/1020748301.html"/>
-        <rdf:li rdf:resource="http://localhost:3000/archives/1020748671.html"/>
-        <rdf:li rdf:resource="http://localhost:3000/archives/1020745672.html"/>
-        <rdf:li rdf:resource="http://localhost:3000/archives/1020743788.html"/>
-        <rdf:li rdf:resource="http://localhost:3000/archives/1020740151.html"/>
-        <rdf:li rdf:resource="http://localhost:3000/archives/1020645773.html"/>
-        <rdf:li rdf:resource="http://localhost:3000/archives/1020645138.html"/>
+        <rdf:li rdf:resource="http://arakawax.webtext.pw/archives/1022457036.html"/>
+        <rdf:li rdf:resource="http://arakawax.webtext.pw/archives/1022455973.html"/>
+        <rdf:li rdf:resource="http://arakawax.webtext.pw/archives/1020838558.html"/>
+        <rdf:li rdf:resource="http://arakawax.webtext.pw/archives/1020748301.html"/>
+        <rdf:li rdf:resource="http://arakawax.webtext.pw/archives/1020748671.html"/>
+        <rdf:li rdf:resource="http://arakawax.webtext.pw/archives/1020745672.html"/>
+        <rdf:li rdf:resource="http://arakawax.webtext.pw/archives/1020743788.html"/>
+        <rdf:li rdf:resource="http://arakawax.webtext.pw/archives/1020740151.html"/>
+        <rdf:li rdf:resource="http://arakawax.webtext.pw/archives/1020645773.html"/>
+        <rdf:li rdf:resource="http://arakawax.webtext.pw/archives/1020645138.html"/>
       </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="http://localhost:3000/archives/1022457036.html">
+  <item rdf:about="http://arakawax.webtext.pw/archives/1022457036.html">
     <title>乃木坂46人気がヤバイｗｗｗｗｗｗｗｗｗｗｗｗｗｗ</title>
-    <link>http://localhost:3000/archives/1022457036.html</link>
+    <link>http://arakawax.webtext.pw/archives/1022457036.html</link>
     <description>
   img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
 
@@ -74,13 +74,13 @@
     <br />
   </div>
 </div>
-<a href="http://localhost:3000/archives/1022457036.html">続きを読む</a>
+<a href="http://arakawax.webtext.pw/archives/1022457036.html">続きを読む</a>
 ]]>
     </content:encoded>
   </item>
-  <item rdf:about="http://localhost:3000/archives/1022455973.html">
+  <item rdf:about="http://arakawax.webtext.pw/archives/1022455973.html">
     <title>【芸能】広瀬すずのゴリ押し戦略 ドラマ不調で「時期尚早」との見方も</title>
-    <link>http://localhost:3000/archives/1022455973.html</link>
+    <link>http://arakawax.webtext.pw/archives/1022455973.html</link>
     <description>
   img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
 
@@ -121,13 +121,13 @@
     <br />
   </div>
 </div>
-<a href="http://localhost:3000/archives/1022455973.html">続きを読む</a>
+<a href="http://arakawax.webtext.pw/archives/1022455973.html">続きを読む</a>
 ]]>
     </content:encoded>
   </item>
-  <item rdf:about="http://localhost:3000/archives/1020838558.html">
+  <item rdf:about="http://arakawax.webtext.pw/archives/1020838558.html">
     <title>【画像】静岡朝日テレビ牧野結美アナ、退社　「可愛すぎる」とネットでも人気の女子アナの画像</title>
-    <link>http://localhost:3000/archives/1020838558.html</link>
+    <link>http://arakawax.webtext.pw/archives/1020838558.html</link>
     <description>
   img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
 
@@ -169,13 +169,13 @@
     <br />
   </div>
 </div>
-<a href="http://localhost:3000/archives/1020838558.html">続きを読む</a>
+<a href="http://arakawax.webtext.pw/archives/1020838558.html">続きを読む</a>
 ]]>
     </content:encoded>
   </item>
-  <item rdf:about="http://localhost:3000/archives/1020748301.html">
+  <item rdf:about="http://arakawax.webtext.pw/archives/1020748301.html">
     <title>【悲報】武田玲奈(１７)が完全にさくらたんの上位互換な件</title>
-    <link>http://localhost:3000/archives/1020748301.html</link>
+    <link>http://arakawax.webtext.pw/archives/1020748301.html</link>
     <description>
   img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
 
@@ -217,13 +217,13 @@
     <br />
   </div>
 </div>
-<a href="http://localhost:3000/archives/1020748301.html">続きを読む</a>
+<a href="http://arakawax.webtext.pw/archives/1020748301.html">続きを読む</a>
 ]]>
     </content:encoded>
   </item>
-  <item rdf:about="http://localhost:3000/archives/1020748671.html">
+  <item rdf:about="http://arakawax.webtext.pw/archives/1020748671.html">
     <title>【画像多数】17歳フレッシュなショートカット「週刊ヤングジャンプ」13号で初表紙を飾った注目の美女、  “れなれな”こと武田玲奈。</title>
-    <link>http://localhost:3000/archives/1020748671.html</link>
+    <link>http://arakawax.webtext.pw/archives/1020748671.html</link>
     <description>
   img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
 
@@ -265,13 +265,13 @@
     <br />
   </div>
 </div>
-<a href="http://localhost:3000/archives/1020748671.html">続きを読む</a>
+<a href="http://arakawax.webtext.pw/archives/1020748671.html">続きを読む</a>
 ]]>
     </content:encoded>
   </item>
-  <item rdf:about="http://localhost:3000/archives/1020745672.html">
+  <item rdf:about="http://arakawax.webtext.pw/archives/1020745672.html">
     <title>【画像】【２０１４年】市川由衣、“足ブラ”ヌード大胆披露　『anan』SEX特集でセクシー全開</title>
-    <link>http://localhost:3000/archives/1020745672.html</link>
+    <link>http://arakawax.webtext.pw/archives/1020745672.html</link>
     <description>
   img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
 
@@ -312,13 +312,13 @@
     <br />
   </div>
 </div>
-<a href="http://localhost:3000/archives/1020745672.html">続きを読む</a>
+<a href="http://arakawax.webtext.pw/archives/1020745672.html">続きを読む</a>
 ]]>
     </content:encoded>
   </item>
-  <item rdf:about="http://localhost:3000/archives/1020743788.html">
+  <item rdf:about="http://arakawax.webtext.pw/archives/1020743788.html">
     <title>【乃木坂46】乃木坂メンバーの女性誌モデル進出に批判の声　「許せない」「モデル体型じゃない」</title>
-    <link>http://localhost:3000/archives/1020743788.html</link>
+    <link>http://arakawax.webtext.pw/archives/1020743788.html</link>
     <description>
   img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
 
@@ -362,13 +362,13 @@
     <br />
   </div>
 </div>
-<a href="http://localhost:3000/archives/1020743788.html">続きを読む</a>
+<a href="http://arakawax.webtext.pw/archives/1020743788.html">続きを読む</a>
 ]]>
     </content:encoded>
   </item>
-  <item rdf:about="http://localhost:3000/archives/1020740151.html">
+  <item rdf:about="http://arakawax.webtext.pw/archives/1020740151.html">
     <title>【テレビ】さて今日のMステでAKBがももクロに、アカデミー賞で大島が本物の女優に公開処刑されるわけだが</title>
-    <link>http://localhost:3000/archives/1020740151.html</link>
+    <link>http://arakawax.webtext.pw/archives/1020740151.html</link>
     <description>
   img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
 
@@ -409,13 +409,13 @@
     <br />
   </div>
 </div>
-<a href="http://localhost:3000/archives/1020740151.html">続きを読む</a>
+<a href="http://arakawax.webtext.pw/archives/1020740151.html">続きを読む</a>
 ]]>
     </content:encoded>
   </item>
-  <item rdf:about="http://localhost:3000/archives/1020645773.html">
+  <item rdf:about="http://arakawax.webtext.pw/archives/1020645773.html">
     <title>【画像多数】ぱるるのショートカットがおかしいと話題にｗｗｗｗｗｗｗｗｗｗｗ</title>
-    <link>http://localhost:3000/archives/1020645773.html</link>
+    <link>http://arakawax.webtext.pw/archives/1020645773.html</link>
     <description>
 
 
@@ -465,13 +465,13 @@
   </div>
 </div>
 
-<a href="http://localhost:3000/archives/1020645773.html">続きを読む</a>
+<a href="http://arakawax.webtext.pw/archives/1020645773.html">続きを読む</a>
 ]]>
     </content:encoded>
   </item>
-  <item rdf:about="http://localhost:3000/archives/1020645138.html">
+  <item rdf:about="http://arakawax.webtext.pw/archives/1020645138.html">
     <title>【画像】この安室ちゃんにムチで叩かれたいwwwwwww</title>
-    <link>http://localhost:3000/archives/1020645138.html</link>
+    <link>http://arakawax.webtext.pw/archives/1020645138.html</link>
     <description>
   img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
 
@@ -512,7 +512,7 @@
     <br />
   </div>
 </div>
-<a href="http://localhost:3000/archives/1020645138.html">続きを読む</a>
+<a href="http://arakawax.webtext.pw/archives/1020645138.html">続きを読む</a>
 ]]>
     </content:encoded>
   </item>
