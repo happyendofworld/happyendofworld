@@ -17,6 +17,7 @@
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20015.html"/>
         <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20014.html"/>
         <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20013.html"/>
         <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20012.html"/>
@@ -26,10 +27,57 @@
         <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20008.html"/>
         <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20006.html"/>
         <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20007.html"/>
-        <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20005.html"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="http://arakawa.webtext.pw/archives/20015.html">
+    <title>乃木坂46SHOW 生田絵梨花の画像【いくちゃん】</title>
+    <link>http://arakawa.webtext.pw/archives/20015.html</link>
+    <description>
+  img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
+
+
+
+  
+    
+      116：
+    
+    
+      君の名は(SB-iPhone)：
+    
+    
+      2015/07/01(水) 12:31:10.95 ID:6vP+RtKM0...</description>
+    <dc:creator>hoppiehoppie</dc:creator>
+    <dc:date>2015-07-06T22:40:00+09:00</dc:date>
+    <dc:subject>乃木坂46</dc:subject>
+    <content:encoded>
+      <![CDATA[<style>
+  img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
+</style>
+
+<div class='res_content' id='res_article_116' number='116' style='display: inline;'>
+  <p class='res_head'>
+    <span class='res_number'>
+      116：
+    </span>
+    <span class='res_user'>
+      君の名は(SB-iPhone)：
+    </span>
+    <span class='res_time'>
+      2015/07/01(水) 12:31:10.95 ID:6vP+RtKM0.net：
+    </span>
+  </p>
+  <div class='res_body_article' style='font-size: 24px; color: rgb(0,120,120);'>
+     流山申し込み完了 <br> 当たれえええええええええええええええ！
+    <br>
+    <br>
+    <br>
+  </div>
+</div>
+<a href="http://arakawa.webtext.pw/archives/20015.html">続きを読む</a>
+]]>
+    </content:encoded>
+  </item>
   <item rdf:about="http://arakawa.webtext.pw/archives/20014.html">
     <title>3年越しでとうとう海外ライブまで成功させたももクロというアイドル</title>
     <link>http://arakawa.webtext.pw/archives/20014.html</link>
@@ -456,54 +504,6 @@
   </div>
 </div>
 <a href="http://arakawa.webtext.pw/archives/20007.html">続きを読む</a>
-]]>
-    </content:encoded>
-  </item>
-  <item rdf:about="http://arakawa.webtext.pw/archives/20005.html">
-    <title>みーおんが可愛すぎて生きるのが楽しい!!</title>
-    <link>http://arakawa.webtext.pw/archives/20005.html</link>
-    <description>
-  img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
-
-
-
-  
-    
-      903：
-    
-    
-      47の素敵な(pc?)＠＼(^o^)／ (ワッチョイ)：
-    
-    
-      2015/07/02(木) 11:39:10.68 ...</description>
-    <dc:creator>hoppiehoppie</dc:creator>
-    <dc:date>2015-07-05T01:50:00+09:00</dc:date>
-    <dc:subject>アイドル</dc:subject>
-    <content:encoded>
-      <![CDATA[<style>
-  img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
-</style>
-
-<div class='res_content' id='res_article_903' number='903' style='display: inline;'>
-  <p class='res_head'>
-    <span class='res_number'>
-      903：
-    </span>
-    <span class='res_user'>
-      47の素敵な(pc?)＠＼(^o^)／ (ワッチョイ)：
-    </span>
-    <span class='res_time'>
-      2015/07/02(木) 11:39:10.68 ID:RdhqcQ+y0.net：
-    </span>
-  </p>
-  <div class='res_body_article' style='font-size: 24px; color: rgb(120,120,120);'>
-     みーおんが可愛すぎて生きるのが楽しい
-    <br>
-    <br>
-    <br>
-  </div>
-</div>
-<a href="http://arakawa.webtext.pw/archives/20005.html">続きを読む</a>
 ]]>
     </content:encoded>
   </item>
