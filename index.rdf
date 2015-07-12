@@ -17,6 +17,7 @@
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20025.html"/>
         <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20024.html"/>
         <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20023.html"/>
         <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20022.html"/>
@@ -26,10 +27,60 @@
         <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20018.html"/>
         <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20016.html"/>
         <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20017.html"/>
-        <rdf:li rdf:resource="http://arakawa.webtext.pw/archives/20015.html"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="http://arakawa.webtext.pw/archives/20025.html">
+    <title>【悲報】明日花キララさん、顔面崩壊
+</title>
+    <link>http://arakawa.webtext.pw/archives/20025.html</link>
+    <description>
+  img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
+
+
+【悲報】明日花キララさん、顔面崩壊
+
+  
+    
+      7：
+    
+    
+      風吹けば名無し＠＼(^o^)／：
+    
+    
+      2015/04/14(火) 15:08:30...</description>
+    <dc:creator>hoppiehoppie</dc:creator>
+    <dc:date>2015-07-12T10:37:11+09:00</dc:date>
+    <dc:subject>芸能</dc:subject>
+    <content:encoded>
+      <![CDATA[<style>
+  img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
+</style>
+
+【悲報】明日花キララさん、顔面崩壊
+<div class='res_content' id='res_article_7' number='7' style='display: inline;'>
+  <p class='res_head'>
+    <span class='res_number'>
+      7：
+    </span>
+    <span class='res_user'>
+      風吹けば名無し＠＼(^o^)／：
+    </span>
+    <span class='res_time'>
+      2015/04/14(火) 15:08:30.93 ID:0VN0ZPRMp.net：
+    </span>
+  </p>
+  <div class='res_body_article' style='font-size: 16px; color: rgb(0,0,120);'>
+     日本人の眉間があんな形な訳ないやろ
+    <br>
+    <br>
+    <br>
+  </div>
+</div>
+<a href="http://arakawa.webtext.pw/archives/20025.html">続きを読む</a>
+]]>
+    </content:encoded>
+  </item>
   <item rdf:about="http://arakawa.webtext.pw/archives/20024.html">
     <title>Soweluが番組ADと過激グラビア撮影 これMUTEKIデビューの布石だろw</title>
     <link>http://arakawa.webtext.pw/archives/20024.html</link>
@@ -459,54 +510,6 @@
   </div>
 </div>
 <a href="http://arakawa.webtext.pw/archives/20017.html">続きを読む</a>
-]]>
-    </content:encoded>
-  </item>
-  <item rdf:about="http://arakawa.webtext.pw/archives/20015.html">
-    <title>乃木坂46SHOW 生田絵梨花の画像【いくちゃん】</title>
-    <link>http://arakawa.webtext.pw/archives/20015.html</link>
-    <description>
-  img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
-
-
-
-  
-    
-      116：
-    
-    
-      君の名は(SB-iPhone)：
-    
-    
-      2015/07/01(水) 12:31:10.95 ID:6vP+RtKM0...</description>
-    <dc:creator>hoppiehoppie</dc:creator>
-    <dc:date>2015-07-06T22:40:00+09:00</dc:date>
-    <dc:subject>乃木坂46</dc:subject>
-    <content:encoded>
-      <![CDATA[<style>
-  img.response {width: 400px;}span.res_user {color: rgb(0, 128, 0);}span.res_user {color: rgb(0, 128, 0);}
-</style>
-
-<div class='res_content' id='res_article_116' number='116' style='display: inline;'>
-  <p class='res_head'>
-    <span class='res_number'>
-      116：
-    </span>
-    <span class='res_user'>
-      君の名は(SB-iPhone)：
-    </span>
-    <span class='res_time'>
-      2015/07/01(水) 12:31:10.95 ID:6vP+RtKM0.net：
-    </span>
-  </p>
-  <div class='res_body_article' style='font-size: 24px; color: rgb(0,120,120);'>
-     流山申し込み完了 <br> 当たれえええええええええええええええ！
-    <br>
-    <br>
-    <br>
-  </div>
-</div>
-<a href="http://arakawa.webtext.pw/archives/20015.html">続きを読む</a>
 ]]>
     </content:encoded>
   </item>
